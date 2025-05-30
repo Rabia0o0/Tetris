@@ -1,5 +1,3 @@
-#include <stddef.h>
-#include <time.h>
 #define A_WIDTH 10 //Arena Width
 #define A_HEIGHT 20 //Arena Height
 #define T_WIDTH 2 //Tetromino Width
